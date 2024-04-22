@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2952204a6da842928e4a13a230a5ee44, type: 3}
+  m_Name: Mortar Data
+  m_EditorClassIdentifier: 
+  Type: 1
+  AttackRange:
+    x: 5
+    y: 30
+  AttackSpeed: 1.7
+  AttackArea: 3
+  AttackPower: 50
+  Price: 100
+  PriceIncreaseRate: 50
+  Image: {fileID: 21300000, guid: 707f772404f0d48459f34ccbea55c9b9, type: 3}
+  BulletPrefab: {fileID: 8931704823485022654, guid: 9985c7beaab8f084a93f310410826827,
+    type: 3}
+  BulletSpawnOffset: {x: 0, y: 0.01, z: 0}

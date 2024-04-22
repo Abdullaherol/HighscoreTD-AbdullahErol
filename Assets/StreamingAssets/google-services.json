@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "112868956108",
+    "firebase_url": "https://highscoretd-abdullaherol-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "highscoretd-abdullaherol",
+    "storage_bucket": "highscoretd-abdullaherol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112868956108:android:d238ae1dbea6d7045a6f69",
+        "android_client_info": {
+          "package_name": "com.abdullaherol.midascasestudy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTKHjBTCEF3ZmsUlZ9kcAcS1HXIAdwuw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
